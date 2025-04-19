@@ -1,0 +1,1329 @@
+{
+  "data": {
+    "id": "60e2ac2d37da605d4e0309c8",
+    "sid": 181642,
+    "questions": [
+      {
+        "title": "一、属于以下哪种情况",
+        "name": "一、属于以下哪种情况",
+        "colCount": null,
+        "type": "radio",
+        "policyWords": [
+          {
+            "id": "659cfeb1ade925532c2b63e1",
+            "name": "测试导入百科词条"
+          }
+        ],
+        "regular": null,
+        "choices": [
+          {
+            "label": "个人",
+            "situationCode": null,
+            "value": "466417.40.36",
+            "cue": "",
+            "additionalCue": null,
+            "uuid": "033a1c30-0219-11eb-8abb-43a9c144bd35",
+            "status": 1,
+            "applicationModel": null,
+            "regular": null,
+            "matter": [
+              {
+                "id": "5bb925b6740cd63750532b08"
+              }
+            ],
+            "ybReusedField": {
+              "showField": [
+                {
+                  "id": "tongspace_v1.0.0_AppModel_sxdfgh_v1.0.0^demo2",
+                  "applicationModel": "tongspace_v1.0.0_AppModel_sxdfgh_v1.0.0",
+                  "value": null,
+                  "required": "1",
+                  "inputOrSelect": 0
+                },
+                {
+                  "id": "tongspace_v1.0.0_AppModel_sxdfgh_v1.0.0^ceshi",
+                  "applicationModel": "tongspace_v1.0.0_AppModel_sxdfgh_v1.0.0",
+                  "value": null,
+                  "required": "1",
+                  "inputOrSelect": 0
+                }
+              ],
+              "disableField": [],
+              "hideField": []
+            },
+            "policyWords": [],
+            "questions": [
+              {
+                "title": "1.是否为现役军人？",
+                "name": "1.是否为现役军人？",
+                "colCount": null,
+                "type": "radio",
+                "policyWords": [
+                  {
+                    "id": "5e09aca9740cd67e1ef1a538",
+                    "name": "百科词条测试"
+                  }
+                ],
+                "regular": null,
+                "choices": [
+                  {
+                    "label": "是",
+                    "situationCode": null,
+                    "value": "466417.40.36.46",
+                    "cue": "PHA+PHNwYW4gc3R5bGU9ImNvbG9yOiAjYzAzOTJiOyI+5o+Q56S6JmxkcXVvO+ivt+iBlOezu+aWsOiDvea6kOaxvei9pueUn+S6p+WOguWVhui/m+ihjOivpeS6i+mhueWKnueQhiZyZHF1bzs8L3NwYW4+PC9wPg==",
+                    "additionalCue": null,
+                    "uuid": "b5bf2b60-fe1e-11ea-91b3-152b06e18bc9",
+                    "status": 1,
+                    "applicationModel": null,
+                    "regular": null,
+                    "matter": [],
+                    "ybReusedField": {
+                      "showField": [],
+                      "disableField": [],
+                      "hideField": []
+                    },
+                    "policyWords": [],
+                    "questions": null,
+                    "pictureUrl": {
+                      "name": "",
+                      "url": ""
+                    },
+                    "optionTags": [
+                      {
+                        "id": "singleItemSituation",
+                        "content": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0\t"
+                      }
+                    ],
+                    "definedSxId": null
+                  },
+                  {
+                    "label": "否",
+                    "situationCode": null,
+                    "value": "466417.40.36.35",
+                    "cue": "",
+                    "additionalCue": null,
+                    "uuid": "2491f280-fe1e-11ea-91b3-152b06e18bc9",
+                    "status": 1,
+                    "applicationModel": null,
+                    "regular": null,
+                    "matter": [],
+                    "ybReusedField": {
+                      "showField": [],
+                      "disableField": [],
+                      "hideField": [
+                        {
+                          "id": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0^driverLicenseCode",
+                          "applicationModel": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0",
+                          "value": null,
+                          "required": "1",
+                          "inputOrSelect": 0
+                        },
+                        {
+                          "id": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0^xxqk",
+                          "applicationModel": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0",
+                          "value": null,
+                          "required": "1",
+                          "inputOrSelect": 0
+                        },
+                        {
+                          "id": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0^fillingExplain",
+                          "applicationModel": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0",
+                          "value": null,
+                          "required": "1",
+                          "inputOrSelect": 0
+                        },
+                        {
+                          "id": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0^authId",
+                          "applicationModel": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0",
+                          "value": null,
+                          "required": "1",
+                          "inputOrSelect": 0
+                        },
+                        {
+                          "id": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0^wfzzm",
+                          "applicationModel": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0",
+                          "value": null,
+                          "required": "1",
+                          "inputOrSelect": 0
+                        },
+                        {
+                          "id": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0^driverLicenseIssuingPlace",
+                          "applicationModel": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0",
+                          "value": null,
+                          "required": "1",
+                          "inputOrSelect": 0
+                        },
+                        {
+                          "id": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0^driverLicenseIssuingOrganization",
+                          "applicationModel": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0",
+                          "value": null,
+                          "required": "1",
+                          "inputOrSelect": 0
+                        },
+                        {
+                          "id": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0^encryptIdentity",
+                          "applicationModel": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0",
+                          "value": null,
+                          "required": "1",
+                          "inputOrSelect": 0
+                        },
+                        {
+                          "id": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0^mobilePhone",
+                          "applicationModel": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0",
+                          "value": null,
+                          "required": "1",
+                          "inputOrSelect": 0
+                        }
+                      ]
+                    },
+                    "policyWords": [
+                      {
+                        "id": "64f553037e8e9f07d023f9f0",
+                        "name": "否"
+                      }
+                    ],
+                    "questions": [
+                      {
+                        "title": "2.户籍类型",
+                        "name": "有问题么？",
+                        "colCount": null,
+                        "type": "radio",
+                        "policyWords": [
+                          {
+                            "id": "65b88f0704465326ef06950a",
+                            "name": "测试数据"
+                          }
+                        ],
+                        "regular": "86d110ec1104458cb2f58ddb38b2e588",
+                        "choices": [
+                          {
+                            "label": "上海市",
+                            "situationCode": null,
+                            "value": "466417.40.36.35.4",
+                            "cue": "",
+                            "additionalCue": null,
+                            "uuid": "65db2680-fe19-11ea-b104-838b1861f930",
+                            "status": 1,
+                            "applicationModel": null,
+                            "regular": null,
+                            "matter": [
+                              {
+                                "id": "5f11629a740cd670e1eb3204"
+                              }
+                            ],
+                            "ybReusedField": {
+                              "showField": [
+                                {
+                                  "id": "tongspace_v1.0.0_AppModel_sxsxextremecspzyjsthree_v1.0.0^mobilePhonexw",
+                                  "applicationModel": "tongspace_v1.0.0_AppModel_sxsxextremecspzyjsthree_v1.0.0",
+                                  "value": null,
+                                  "required": "1",
+                                  "inputOrSelect": 0
+                                },
+                                {
+                                  "id": "tongspace_v1.0.0_AppModel_sxsxextremecspzyjsthree_v1.0.0^mobilePhonex",
+                                  "applicationModel": "tongspace_v1.0.0_AppModel_sxsxextremecspzyjsthree_v1.0.0",
+                                  "value": null,
+                                  "required": "1",
+                                  "inputOrSelect": 0
+                                }
+                              ],
+                              "disableField": [],
+                              "hideField": []
+                            },
+                            "policyWords": [
+                              {
+                                "id": "6433d1b055d96840b63839f1",
+                                "name": "上海市"
+                              }
+                            ],
+                            "questions": [
+                              {
+                                "title": "3、本次申请购买车辆的类型。",
+                                "name": "3、本次申请购买车辆的类型。",
+                                "colCount": null,
+                                "type": "radio",
+                                "policyWords": [
+                                  {
+                                    "id": "6433d1b055d96840b63839f1",
+                                    "name": "上海市"
+                                  }
+                                ],
+                                "regular": null,
+                                "choices": [
+                                  {
+                                    "label": "纯电动",
+                                    "situationCode": null,
+                                    "value": "466417.40.36.35.4.2",
+                                    "cue": null,
+                                    "additionalCue": null,
+                                    "uuid": "selectAllHandle",
+                                    "status": 1,
+                                    "applicationModel": null,
+                                    "regular": null,
+                                    "matter": [],
+                                    "ybReusedField": {
+                                      "showField": [
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxxjqtest0812_v1.0.0^ceshi3",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxxjqtest0812_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxxjqtest0812_v1.0.0^ddd",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxxjqtest0812_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxxjqtest0812_v1.0.0^ceshi1",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxxjqtest0812_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxxjqtest0812_v1.0.0^cer",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxxjqtest0812_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxxjqtest0812_v1.0.0^cesjo",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxxjqtest0812_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxxjqtest0812_v1.0.0^dsd",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxxjqtest0812_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxxjqtest0812_v1.0.0^ceshi4",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxxjqtest0812_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        }
+                                      ],
+                                      "disableField": [],
+                                      "hideField": []
+                                    },
+                                    "policyWords": [],
+                                    "questions": null,
+                                    "pictureUrl": {
+                                      "name": "",
+                                      "url": ""
+                                    },
+                                    "optionTags": [],
+                                    "definedSxId": "tongspace_v1.0.0_AppModel_sxxjqtest0812_v1.0.0"
+                                  },
+                                  {
+                                    "label": "燃料电池车",
+                                    "situationCode": null,
+                                    "value": "466417.40.36.35.4.3",
+                                    "cue": null,
+                                    "additionalCue": null,
+                                    "uuid": null,
+                                    "status": 1,
+                                    "applicationModel": null,
+                                    "regular": null,
+                                    "matter": [],
+                                    "ybReusedField": {
+                                      "showField": [
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxcustomtest_v1.0.0^name",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxcustomtest_v1.0.0",
+                                          "value": "",
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxcustomtest_v1.0.0^encryptIdentity",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxcustomtest_v1.0.0",
+                                          "value": "",
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxcustomtest_v1.0.0^jsraqjsjl",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxcustomtest_v1.0.0",
+                                          "value": "",
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxcustomtest_v1.0.0^ggzdgr_receiveType",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxcustomtest_v1.0.0",
+                                          "value": "",
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxcustomtest_v1.0.0^householdRegistrationType",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxcustomtest_v1.0.0",
+                                          "value": "",
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxcustomtest_v1.0.0^quotaType",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxcustomtest_v1.0.0",
+                                          "value": "",
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxcustomtest_v1.0.0^xxqk",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxcustomtest_v1.0.0",
+                                          "value": "",
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        }
+                                      ],
+                                      "disableField": [],
+                                      "hideField": []
+                                    },
+                                    "policyWords": [],
+                                    "questions": null,
+                                    "pictureUrl": null,
+                                    "optionTags": [],
+                                    "definedSxId": "tongspace_v1.0.0_AppModel_sxcustomtest_v1.0.0"
+                                  }
+                                ],
+                                "cue": "",
+                                "hidden": false,
+                                "displayMode": "0",
+                                "pictureUrl": {
+                                  "name": "",
+                                  "url": ""
+                                },
+                                "required": true
+                              }
+                            ],
+                            "pictureUrl": {
+                              "name": "",
+                              "url": ""
+                            },
+                            "optionTags": [],
+                            "definedSxId": "tongspace_v1.0.0_AppModel_sxsxextremecspzyjsthree_v1.0.0"
+                          },
+                          {
+                            "label": "外省市（不包括港澳台）",
+                            "situationCode": null,
+                            "value": "466417.40.36.35.25",
+                            "cue": "",
+                            "additionalCue": null,
+                            "uuid": "6b870630-fe19-11ea-b104-838b1861f930",
+                            "status": 1,
+                            "applicationModel": null,
+                            "regular": null,
+                            "matter": [
+                              {
+                                "id": "5bcec6951188e171c8a48e60"
+                              },
+                              {
+                                "id": "5bceb5f51188e171c8a36671"
+                              },
+                              {
+                                "id": "5ecf221a740cd6407a37174b"
+                              },
+                              {
+                                "id": "5f1162d0740cd670e1eb3d2a"
+                              },
+                              {
+                                "id": "5f11629a740cd670e1eb3204"
+                              },
+                              {
+                                "id": "611e04dcbe83553ff208c9a0"
+                              },
+                              {
+                                "id": "64f811b1893d535eba4c908b"
+                              }
+                            ],
+                            "ybReusedField": {
+                              "showField": [],
+                              "disableField": [],
+                              "hideField": []
+                            },
+                            "policyWords": [
+                              {
+                                "id": "64f80cfa893d535eba4c9053",
+                                "name": "外省市（不包括港澳台）"
+                              }
+                            ],
+                            "questions": [
+                              {
+                                "title": "3、居住证是否有效",
+                                "name": "3、居住证是否有效",
+                                "colCount": null,
+                                "type": "checkbox",
+                                "policyWords": [
+                                  {
+                                    "id": "64f80cfa893d535eba4c9053",
+                                    "name": "外省市（不包括港澳台）"
+                                  }
+                                ],
+                                "regular": null,
+                                "choices": [
+                                  {
+                                    "label": "是",
+                                    "situationCode": null,
+                                    "value": "466417.40.36.35.25.23",
+                                    "cue": null,
+                                    "additionalCue": null,
+                                    "uuid": "1d3a29f7-c3d3-4790-b428-e693f72767ec",
+                                    "status": 1,
+                                    "applicationModel": null,
+                                    "regular": null,
+                                    "matter": [],
+                                    "ybReusedField": {
+                                      "showField": [
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0^birthday",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0^khhgzyxm",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0^property",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0^driverFileNo",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0^sfz",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0^authType",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0^quotaType",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0^name",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0^mobilePhone",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0^householdRegistrationType",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        }
+                                      ],
+                                      "disableField": [],
+                                      "hideField": []
+                                    },
+                                    "policyWords": [],
+                                    "questions": [
+                                      {
+                                        "title": "4、前24个月内累计缴纳12个月社会保险",
+                                        "name": "4、前24个月内累计缴纳12个月社会保险",
+                                        "colCount": null,
+                                        "type": "radio",
+                                        "policyWords": [],
+                                        "regular": null,
+                                        "choices": [
+                                          {
+                                            "label": "是",
+                                            "situationCode": null,
+                                            "value": "466417.40.36.35.25.23.7",
+                                            "cue": null,
+                                            "additionalCue": null,
+                                            "uuid": null,
+                                            "status": 1,
+                                            "applicationModel": null,
+                                            "regular": null,
+                                            "matter": [],
+                                            "ybReusedField": {
+                                              "showField": [
+                                                {
+                                                  "id": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0^cblx",
+                                                  "applicationModel": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0",
+                                                  "value": null,
+                                                  "required": "1",
+                                                  "inputOrSelect": 0
+                                                },
+                                                {
+                                                  "id": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0^yyfsfjq",
+                                                  "applicationModel": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0",
+                                                  "value": null,
+                                                  "required": "1",
+                                                  "inputOrSelect": 0
+                                                },
+                                                {
+                                                  "id": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0^SH00HPD00000693N",
+                                                  "applicationModel": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0",
+                                                  "value": null,
+                                                  "required": "1",
+                                                  "inputOrSelect": 0
+                                                },
+                                                {
+                                                  "id": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0^dz",
+                                                  "applicationModel": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0",
+                                                  "value": null,
+                                                  "required": "1",
+                                                  "inputOrSelect": 0
+                                                },
+                                                {
+                                                  "id": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0^zjlx",
+                                                  "applicationModel": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0",
+                                                  "value": null,
+                                                  "required": "1",
+                                                  "inputOrSelect": 0
+                                                },
+                                                {
+                                                  "id": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0^SH00HPD00000695N",
+                                                  "applicationModel": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0",
+                                                  "value": null,
+                                                  "required": "1",
+                                                  "inputOrSelect": 0
+                                                },
+                                                {
+                                                  "id": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0^SH00HPD00000694N",
+                                                  "applicationModel": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0",
+                                                  "value": null,
+                                                  "required": "1",
+                                                  "inputOrSelect": 0
+                                                },
+                                                {
+                                                  "id": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0^bgly",
+                                                  "applicationModel": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0",
+                                                  "value": null,
+                                                  "required": "1",
+                                                  "inputOrSelect": 0
+                                                },
+                                                {
+                                                  "id": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0^SH00HPD00000697N",
+                                                  "applicationModel": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0",
+                                                  "value": null,
+                                                  "required": "1",
+                                                  "inputOrSelect": 0
+                                                },
+                                                {
+                                                  "id": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0^zjhm",
+                                                  "applicationModel": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0",
+                                                  "value": null,
+                                                  "required": "1",
+                                                  "inputOrSelect": 0
+                                                }
+                                              ],
+                                              "disableField": [],
+                                              "hideField": []
+                                            },
+                                            "policyWords": [],
+                                            "questions": [
+                                              {
+                                                "title": "5、本次申请购买车辆的类型。",
+                                                "name": "5、本次申请购买车辆的类型。",
+                                                "colCount": null,
+                                                "type": "radio",
+                                                "policyWords": [],
+                                                "regular": null,
+                                                "choices": [
+                                                  {
+                                                    "label": "纯电动",
+                                                    "situationCode": null,
+                                                    "value": "466417.40.36.35.25.23.7.5",
+                                                    "cue": null,
+                                                    "additionalCue": null,
+                                                    "uuid": null,
+                                                    "status": 1,
+                                                    "applicationModel": null,
+                                                    "regular": "5e17c866f1574769ab9fc1893cbdf4b1",
+                                                    "matter": [],
+                                                    "ybReusedField": {
+                                                      "showField": [
+                                                        {
+                                                          "id": "tongspace_v1.0.0_AppModel_sxceshihuchiyi_v1.0.0^rzx",
+                                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxceshihuchiyi_v1.0.0",
+                                                          "value": null,
+                                                          "required": "1",
+                                                          "inputOrSelect": 0
+                                                        },
+                                                        {
+                                                          "id": "tongspace_v1.0.0_AppModel_sxceshihuchiyi_v1.0.0^ere",
+                                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxceshihuchiyi_v1.0.0",
+                                                          "value": null,
+                                                          "required": "1",
+                                                          "inputOrSelect": 0
+                                                        }
+                                                      ],
+                                                      "disableField": [],
+                                                      "hideField": []
+                                                    },
+                                                    "policyWords": [],
+                                                    "questions": null,
+                                                    "pictureUrl": null,
+                                                    "optionTags": [],
+                                                    "definedSxId": "tongspace_v1.0.0_AppModel_sxceshihuchiyi_v1.0.0"
+                                                  },
+                                                  {
+                                                    "label": "燃料电池车",
+                                                    "situationCode": null,
+                                                    "value": "466417.40.36.35.25.23.7.6",
+                                                    "cue": null,
+                                                    "additionalCue": null,
+                                                    "uuid": null,
+                                                    "status": 1,
+                                                    "applicationModel": null,
+                                                    "regular": null,
+                                                    "matter": [],
+                                                    "ybReusedField": {
+                                                      "showField": [
+                                                        {
+                                                          "id": "tongspace_v1.0.0_AppModel_sxceshihuchier_v1.0.0^rzx",
+                                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxceshihuchier_v1.0.0",
+                                                          "value": null,
+                                                          "required": "1",
+                                                          "inputOrSelect": 0
+                                                        },
+                                                        {
+                                                          "id": "tongspace_v1.0.0_AppModel_sxceshihuchier_v1.0.0^ere",
+                                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxceshihuchier_v1.0.0",
+                                                          "value": null,
+                                                          "required": "1",
+                                                          "inputOrSelect": 0
+                                                        }
+                                                      ],
+                                                      "disableField": [],
+                                                      "hideField": []
+                                                    },
+                                                    "policyWords": [],
+                                                    "questions": null,
+                                                    "pictureUrl": {
+                                                      "name": "",
+                                                      "url": ""
+                                                    },
+                                                    "optionTags": [],
+                                                    "definedSxId": null
+                                                  }
+                                                ],
+                                                "cue": "",
+                                                "hidden": false,
+                                                "displayMode": "0",
+                                                "pictureUrl": {
+                                                  "name": "",
+                                                  "url": ""
+                                                },
+                                                "required": true
+                                              }
+                                            ],
+                                            "pictureUrl": {
+                                              "name": "",
+                                              "url": ""
+                                            },
+                                            "optionTags": [],
+                                            "definedSxId": "tongspace_v1.0.0_AppModel_sxhpqblksydjydjba_v1.0.0"
+                                          }
+                                        ],
+                                        "cue": "",
+                                        "hidden": false,
+                                        "displayMode": "0",
+                                        "pictureUrl": {
+                                          "name": "",
+                                          "url": ""
+                                        },
+                                        "required": true
+                                      }
+                                    ],
+                                    "pictureUrl": {
+                                      "name": "",
+                                      "url": ""
+                                    },
+                                    "optionTags": [],
+                                    "definedSxId": "tongspace_v1.0.0_AppModel_sxxnyqcbgr_v1.0.0"
+                                  },
+                                  {
+                                    "label": "否",
+                                    "situationCode": null,
+                                    "value": "466417.40.36.35.25.24",
+                                    "cue": "PHA+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZToxNHB4Ij48c3BhbiBzdHlsZT0iY29sb3I6I2MwMzkyYiI+5o+Q56S677ya5aSW55yB5biC77yI6Z2e5riv5r6z5Y+w5Y+K5YW25LuW5aSW57GN5Lq65aOr77yJ5b+F6aG75oyB5pyJ5pyJ5pWI5LiK5rW35biC5bGF5L2P6K+B5omN5Y+v5Yqe55CG4oCc5paw6IO95rqQ5rG96L2m5LiT55So54mM54Wn55Sz6aKG5LiA5Lu25LqL4oCd5LqL6aG544CCPC9zcGFuPjwvc3Bhbj48L3A+",
+                                    "additionalCue": null,
+                                    "uuid": "127b4699-5df0-4574-ad75-d06b74c2c00b",
+                                    "status": 1,
+                                    "applicationModel": null,
+                                    "regular": null,
+                                    "matter": [],
+                                    "ybReusedField": {
+                                      "showField": [
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxceshihuchisan_v1.0.0^ere",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxceshihuchisan_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxceshihuchisan_v1.0.0^rzx",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxceshihuchisan_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        }
+                                      ],
+                                      "disableField": [],
+                                      "hideField": []
+                                    },
+                                    "policyWords": [],
+                                    "questions": null,
+                                    "pictureUrl": {
+                                      "name": "",
+                                      "url": ""
+                                    },
+                                    "optionTags": [],
+                                    "definedSxId": "tongspace_v1.0.0_AppModel_sxceshihuchisan_v1.0.0"
+                                  }
+                                ],
+                                "cue": "",
+                                "hidden": false,
+                                "displayMode": "0",
+                                "pictureUrl": {
+                                  "name": "",
+                                  "url": ""
+                                },
+                                "required": true
+                              }
+                            ],
+                            "pictureUrl": {
+                              "name": "",
+                              "url": ""
+                            },
+                            "optionTags": [],
+                            "definedSxId": null
+                          },
+                          {
+                            "label": "其他（所持证件非居民身份证）",
+                            "situationCode": null,
+                            "value": "466417.40.36.35.34",
+                            "cue": "",
+                            "additionalCue": null,
+                            "uuid": "70feb680-fe19-11ea-b104-838b1861f930",
+                            "status": 1,
+                            "applicationModel": null,
+                            "regular": null,
+                            "matter": [],
+                            "ybReusedField": {
+                              "showField": [
+                                {
+                                  "id": "tongspace_v1.0.0_AppModel_sxceshihuchisi_v1.0.0^rzx",
+                                  "applicationModel": "tongspace_v1.0.0_AppModel_sxceshihuchisi_v1.0.0",
+                                  "value": null,
+                                  "required": "1",
+                                  "inputOrSelect": 0
+                                },
+                                {
+                                  "id": "tongspace_v1.0.0_AppModel_sxceshihuchisi_v1.0.0^ere",
+                                  "applicationModel": "tongspace_v1.0.0_AppModel_sxceshihuchisi_v1.0.0",
+                                  "value": null,
+                                  "required": "1",
+                                  "inputOrSelect": 0
+                                }
+                              ],
+                              "disableField": [],
+                              "hideField": []
+                            },
+                            "policyWords": [],
+                            "questions": [
+                              {
+                                "title": "3、前6个月在本市连续缴纳社会保险。",
+                                "name": "实打实",
+                                "colCount": null,
+                                "type": "radio",
+                                "policyWords": [],
+                                "regular": null,
+                                "choices": [
+                                  {
+                                    "label": "是",
+                                    "situationCode": null,
+                                    "value": "466417.40.36.35.34.28",
+                                    "cue": null,
+                                    "additionalCue": null,
+                                    "uuid": null,
+                                    "status": 1,
+                                    "applicationModel": null,
+                                    "regular": null,
+                                    "matter": [],
+                                    "ybReusedField": {
+                                      "showField": [
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxceshihuchiwu_v1.0.0^ere",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxceshihuchiwu_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        },
+                                        {
+                                          "id": "tongspace_v1.0.0_AppModel_sxceshihuchiwu_v1.0.0^rzx",
+                                          "applicationModel": "tongspace_v1.0.0_AppModel_sxceshihuchiwu_v1.0.0",
+                                          "value": null,
+                                          "required": "1",
+                                          "inputOrSelect": 0
+                                        }
+                                      ],
+                                      "disableField": [],
+                                      "hideField": []
+                                    },
+                                    "policyWords": [],
+                                    "questions": [
+                                      {
+                                        "title": "4、本次申请购买车辆的类型。",
+                                        "name": "4、本次申请购买车辆的类型。",
+                                        "colCount": null,
+                                        "type": "radio",
+                                        "policyWords": [],
+                                        "regular": null,
+                                        "choices": [
+                                          {
+                                            "label": "纯电动",
+                                            "situationCode": null,
+                                            "value": "466417.40.36.35.34.28.26",
+                                            "cue": null,
+                                            "additionalCue": null,
+                                            "uuid": null,
+                                            "status": 1,
+                                            "applicationModel": null,
+                                            "regular": null,
+                                            "matter": [],
+                                            "ybReusedField": {
+                                              "showField": [
+                                                {
+                                                  "id": "tongspace_v1.0.0_AppModel_sxwenwu1_v1.0.0^dwemail",
+                                                  "applicationModel": "tongspace_v1.0.0_AppModel_sxwenwu1_v1.0.0",
+                                                  "value": null,
+                                                  "required": "1",
+                                                  "inputOrSelect": 0
+                                                }
+                                              ],
+                                              "disableField": [],
+                                              "hideField": []
+                                            },
+                                            "policyWords": [],
+                                            "questions": null,
+                                            "pictureUrl": {
+                                              "name": "",
+                                              "url": ""
+                                            },
+                                            "optionTags": [],
+                                            "definedSxId": "tongspace_v1.0.0_AppModel_sxwenwu1_v1.0.0"
+                                          },
+                                          {
+                                            "label": "燃料电池车",
+                                            "situationCode": null,
+                                            "value": "466417.40.36.35.34.28.27",
+                                            "cue": null,
+                                            "additionalCue": null,
+                                            "uuid": null,
+                                            "status": 1,
+                                            "applicationModel": null,
+                                            "regular": null,
+                                            "matter": [],
+                                            "ybReusedField": {
+                                              "showField": [
+                                                {
+                                                  "id": "tongspace_v1.0.0_AppModel_sxmfmmm_v1.0.0^shscqz",
+                                                  "applicationModel": "tongspace_v1.0.0_AppModel_sxmfmmm_v1.0.0",
+                                                  "value": null,
+                                                  "required": "1",
+                                                  "inputOrSelect": 0
+                                                }
+                                              ],
+                                              "disableField": [],
+                                              "hideField": []
+                                            },
+                                            "policyWords": [],
+                                            "questions": null,
+                                            "pictureUrl": {
+                                              "name": "",
+                                              "url": ""
+                                            },
+                                            "optionTags": [],
+                                            "definedSxId": "tongspace_v1.0.0_AppModel_sxmfmmm_v1.0.0"
+                                          }
+                                        ],
+                                        "cue": "",
+                                        "hidden": false,
+                                        "displayMode": "0",
+                                        "pictureUrl": {
+                                          "name": "",
+                                          "url": ""
+                                        },
+                                        "required": true
+                                      }
+                                    ],
+                                    "pictureUrl": {
+                                      "name": "",
+                                      "url": ""
+                                    },
+                                    "optionTags": [],
+                                    "definedSxId": "tongspace_v1.0.0_AppModel_sxceshihuchiwu_v1.0.0"
+                                  },
+                                  {
+                                    "label": "否",
+                                    "situationCode": null,
+                                    "value": "466417.40.36.35.34.33",
+                                    "cue": null,
+                                    "additionalCue": null,
+                                    "uuid": null,
+                                    "status": 1,
+                                    "applicationModel": null,
+                                    "regular": null,
+                                    "matter": [],
+                                    "ybReusedField": {
+                                      "showField": [],
+                                      "disableField": [],
+                                      "hideField": []
+                                    },
+                                    "policyWords": [],
+                                    "questions": [
+                                      {
+                                        "title": "4、前6个月在本市连续缴纳个人所得税。",
+                                        "name": "4、前6个月在本市连续缴纳个人所得税。",
+                                        "colCount": null,
+                                        "type": "checkbox",
+                                        "policyWords": [],
+                                        "regular": null,
+                                        "choices": [
+                                          {
+                                            "label": "纯电动车",
+                                            "situationCode": null,
+                                            "value": "466417.40.36.35.34.33.41",
+                                            "cue": null,
+                                            "additionalCue": null,
+                                            "uuid": null,
+                                            "status": 1,
+                                            "applicationModel": null,
+                                            "regular": null,
+                                            "matter": [],
+                                            "ybReusedField": {
+                                              "showField": [],
+                                              "disableField": [],
+                                              "hideField": []
+                                            },
+                                            "policyWords": null,
+                                            "questions": null,
+                                            "pictureUrl": null,
+                                            "optionTags": [],
+                                            "definedSxId": null
+                                          },
+                                          {
+                                            "label": "燃料电池车",
+                                            "situationCode": null,
+                                            "value": "466417.40.36.35.34.33.42",
+                                            "cue": null,
+                                            "additionalCue": null,
+                                            "uuid": null,
+                                            "status": 1,
+                                            "applicationModel": null,
+                                            "regular": null,
+                                            "matter": [],
+                                            "ybReusedField": {
+                                              "showField": [],
+                                              "disableField": [],
+                                              "hideField": []
+                                            },
+                                            "policyWords": null,
+                                            "questions": null,
+                                            "pictureUrl": null,
+                                            "optionTags": [],
+                                            "definedSxId": null
+                                          }
+                                        ],
+                                        "cue": "",
+                                        "hidden": false,
+                                        "displayMode": "0",
+                                        "pictureUrl": {
+                                          "name": "",
+                                          "url": ""
+                                        },
+                                        "required": true
+                                      }
+                                    ],
+                                    "pictureUrl": {
+                                      "name": "",
+                                      "url": ""
+                                    },
+                                    "optionTags": [],
+                                    "definedSxId": null
+                                  }
+                                ],
+                                "cue": "",
+                                "hidden": false,
+                                "displayMode": "0",
+                                "pictureUrl": {
+                                  "name": "",
+                                  "url": ""
+                                },
+                                "required": true
+                              }
+                            ],
+                            "pictureUrl": {
+                              "name": "",
+                              "url": ""
+                            },
+                            "optionTags": [],
+                            "definedSxId": "tongspace_v1.0.0_AppModel_sxceshihuchisi_v1.0.0"
+                          }
+                        ],
+                        "cue": "",
+                        "hidden": false,
+                        "displayMode": "0",
+                        "pictureUrl": {
+                          "name": "",
+                          "url": ""
+                        },
+                        "required": true
+                      }
+                    ],
+                    "pictureUrl": {
+                      "name": "",
+                      "url": ""
+                    },
+                    "optionTags": [
+                      {
+                        "id": "singleltemSituation",
+                        "content": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0"
+                      }
+                    ],
+                    "definedSxId": "tongspace_v1.0.0_AppModel_sxgczgcxgr_v1.0.0"
+                  }
+                ],
+                "cue": "",
+                "hidden": false,
+                "displayMode": "0",
+                "pictureUrl": {
+                  "name": "",
+                  "url": ""
+                },
+                "required": true
+              }
+            ],
+            "pictureUrl": {
+              "name": "",
+              "url": ""
+            },
+            "optionTags": [],
+            "definedSxId": "tongspace_v1.0.0_AppModel_sxdfgh_v1.0.0"
+          },
+          {
+            "label": "法人",
+            "situationCode": null,
+            "value": "466417.40.39",
+            "cue": "",
+            "additionalCue": null,
+            "uuid": "06e3c340-0219-11eb-8abb-43a9c144bd35",
+            "status": 1,
+            "applicationModel": null,
+            "regular": null,
+            "matter": [],
+            "ybReusedField": {
+              "showField": [],
+              "disableField": [],
+              "hideField": []
+            },
+            "policyWords": [],
+            "questions": [
+              {
+                "title": "1.本次申请为首次在沪申请新能源汽车免费额度，且本次只申请购买一辆汽车",
+                "name": "法法师",
+                "colCount": null,
+                "type": "radio",
+                "policyWords": [],
+                "regular": null,
+                "choices": [
+                  {
+                    "label": "是",
+                    "situationCode": null,
+                    "value": "466417.40.39.37",
+                    "cue": "",
+                    "additionalCue": null,
+                    "uuid": "83dd3010-fe19-11ea-b104-838b1861f930",
+                    "status": 1,
+                    "applicationModel": null,
+                    "regular": null,
+                    "matter": [],
+                    "ybReusedField": {
+                      "showField": [],
+                      "disableField": [],
+                      "hideField": []
+                    },
+                    "policyWords": [],
+                    "questions": null,
+                    "pictureUrl": {
+                      "name": "",
+                      "url": ""
+                    },
+                    "optionTags": [],
+                    "definedSxId": "tongspace_v1.0.0_AppModel_sxgczgcxfr_v1.0.0"
+                  },
+                  {
+                    "label": "否",
+                    "situationCode": null,
+                    "value": "466417.40.39.38",
+                    "cue": "PHA+PHNwYW4gc3R5bGU9ImNvbG9yOiNjMDM5MmIiPuaPkOekujrigJzor7flnKjotK3ovabotYTmoLznlLPor7figJ3kuovpobnlip7nu5PlkI7vvIzogZTns7vovabllYblnKjkuIrmtbfluILmlrDog73mupDmsb3ovabooaXotLTns7vnu5/nu6fnu63lip7nkIbovabovobkv6Hmga/noa7orqTkuovpobnvvIzkuYvlkI7nur/kuIvlip7nkIbkuIrniYzkuovpobnjgII8L3NwYW4+PC9wPjxwPjxici8+PC9wPg==",
+                    "additionalCue": null,
+                    "uuid": "7a9b5860-fe19-11ea-b104-838b1861f930",
+                    "status": 1,
+                    "applicationModel": null,
+                    "regular": null,
+                    "matter": [],
+                    "ybReusedField": {
+                      "showField": [],
+                      "disableField": [],
+                      "hideField": []
+                    },
+                    "policyWords": [],
+                    "questions": null,
+                    "pictureUrl": {
+                      "name": "",
+                      "url": ""
+                    },
+                    "optionTags": [],
+                    "definedSxId": null
+                  }
+                ],
+                "cue": "",
+                "hidden": false,
+                "displayMode": "0",
+                "pictureUrl": {
+                  "name": "",
+                  "url": ""
+                },
+                "required": true
+              }
+            ],
+            "pictureUrl": {
+              "name": "",
+              "url": ""
+            },
+            "optionTags": [],
+            "definedSxId": null
+          }
+        ],
+        "cue": "",
+        "hidden": false,
+        "displayMode": "0",
+        "pictureUrl": {
+          "name": "",
+          "url": ""
+        },
+        "required": true
+      },
+      {
+        "title": "请选择办理模式",
+        "name": "请选择办理模式",
+        "colCount": null,
+        "type": "radio",
+        "policyWords": [],
+        "regular": null,
+        "choices": [
+          {
+            "label": "承诺告知制",
+            "situationCode": null,
+            "value": "466417.43.44",
+            "cue": null,
+            "additionalCue": null,
+            "uuid": "ff3fd51e-8a76-4560-9d31-b1dc2034a5CN",
+            "status": 1,
+            "applicationModel": null,
+            "regular": null,
+            "matter": [],
+            "ybReusedField": {
+              "showField": [],
+              "disableField": [],
+              "hideField": []
+            },
+            "policyWords": [],
+            "questions": null,
+            "pictureUrl": {
+              "name": "",
+              "url": ""
+            },
+            "optionTags": [],
+            "definedSxId": "tongspace_v1.0.0_AppModel_sxydzc_v1.0.0"
+          },
+          {
+            "label": "一般审批程序",
+            "situationCode": null,
+            "value": "466417.43.45",
+            "cue": null,
+            "additionalCue": null,
+            "uuid": "eee8083d-de52-4ba9-9f31-c59d5a7ffaYB",
+            "status": 1,
+            "applicationModel": null,
+            "regular": null,
+            "matter": [],
+            "ybReusedField": {
+              "showField": [],
+              "disableField": [],
+              "hideField": []
+            },
+            "policyWords": [],
+            "questions": null,
+            "pictureUrl": {
+              "name": "",
+              "url": ""
+            },
+            "optionTags": [],
+            "definedSxId": null
+          }
+        ],
+        "cue": "",
+        "hidden": false,
+        "displayMode": "0",
+        "pictureUrl": null,
+        "required": true
+      }
+    ]
+  },
+  "state": 1,
+  "code": "10000",
+  "msg": "获取数据成功！"
+}
